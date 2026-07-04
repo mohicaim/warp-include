@@ -1,0 +1,9 @@
+# ipv6 国内ip
+#https://raw.githubusercontent.com/mayaxcn/china-ip-list/master/chnroute_v6.txt
+##https://raw.githubusercontent.com/mayaxcn/china-ip-list/master/chnroute.txt
+#https://raw.githubusercontent.com/mohicai/warp-exclude/refs/heads/main/ip.txt
+
+
+
+
+
