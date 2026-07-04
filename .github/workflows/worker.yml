@@ -1,6 +1,7 @@
 name: worker
 
 permissions:
+  contents: read
   actions: write 
 env:
 
