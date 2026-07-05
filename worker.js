@@ -9,7 +9,7 @@ export default {
     if (!env.CF_API_TOKEN || !env.GITHUB_TOKEN) {
       return new Response(JSON.stringify({ error: "Cloudflare or GitHub Token missing" }), { status: 200 });
     }
-*/
+
 
     try {
       // -----------------------------
